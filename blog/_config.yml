@@ -13,9 +13,9 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://jinqiansheng.cn/
+url: http://jinqiansheng.cn/article
 root: /
-permalink: :year/:month/:day/:title/
+permalink: article/:year:month:day.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing index.html from permalinks
@@ -116,5 +116,5 @@ jsonContent:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
-  repo: https://github.com/a984958991/jqs.github.io.git
+  repo: https://github.com/jinqiansheng/jinqiansheng.github.io.git
   branch: master

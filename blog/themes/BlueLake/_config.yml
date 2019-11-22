@@ -84,8 +84,8 @@ comment:
     enable: true ## 开启gitalk
     owner: jinqiansheng ## GitHub的用户名
     repo: jinqiansheng.github.io ## 仓库名
-    client_id: 26ab90222c429429007a ## 复制刚才生成的clientID，例如. 75752dafe7907a897619
-    client_secret: 371da8f5ba7f6e4ba89ac3248ce4dd15a38f61b9 ## 复制刚才生成的clientSecret，例如. ec2fb9054972c891289640354993b662f4cccc50
+    client_id: 40126f3e979c456e6b35 ## 复制刚才生成的clientID，例如. 75752dafe7907a897619
+    client_secret: 919d5d900b9d6417668c6a496f9b62ddbc678d43 ## 复制刚才生成的clientSecret，例如. ec2fb9054972c891289640354993b662f4cccc50
     admin: jinqiansheng ## Github的用户名
     language: zh-CN ## Language
     pagerDirection: last # Comment sorting direction, available values are last and first.
